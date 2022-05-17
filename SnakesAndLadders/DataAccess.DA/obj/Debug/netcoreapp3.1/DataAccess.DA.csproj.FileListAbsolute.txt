@@ -8,3 +8,13 @@ C:\Users\bayteq\Documents\My Web Sites\SnakesAndLadders\SnakesAndLadders\DataAcc
 C:\Users\bayteq\Documents\My Web Sites\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.csproj.CoreCompileInputs.cache
 C:\Users\bayteq\Documents\My Web Sites\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.dll
 C:\Users\bayteq\Documents\My Web Sites\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.pdb
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\bin\Debug\netcoreapp3.1\DataAccess.DA.deps.json
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\bin\Debug\netcoreapp3.1\DataAccess.DA.dll
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\bin\Debug\netcoreapp3.1\DataAccess.DA.pdb
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.csproj.AssemblyReference.cache
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.AssemblyInfoInputs.cache
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.AssemblyInfo.cs
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.csproj.CoreCompileInputs.cache
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.dll
+C:\Users\bayteq\Documents\GitHub\SnakesAndLadders\SnakesAndLadders\DataAccess.DA\obj\Debug\netcoreapp3.1\DataAccess.DA.pdb
