@@ -24,19 +24,6 @@ namespace Logic.BL
             players[0].HasTurn = true;
             return players;
         }
-        public List<JumRule> CreateRandomJumpRuleList(BoardDA.BoxesTypes type, int quantity, int maxHeigth)
-        {
-            Random rd = new Random();
-            var response = new List<JumRule>();
-            for (int i = 0; i  < quantity; i++)
-            {
-                int initBox = rd.Next(1, maxHeigth - 10);
-                int endBox = rd.Next(initBox, maxHeigth);
-                var box = new JumRule { Type = type, InitialPosition = initBox, EndPosition = endBox };
-                response.Add(box);
-            }
-            return response;
-        }
         public void PrintSpecialBoxes(BoardBE board)
         {
             board.JumpRules.ForEach(snake => {
