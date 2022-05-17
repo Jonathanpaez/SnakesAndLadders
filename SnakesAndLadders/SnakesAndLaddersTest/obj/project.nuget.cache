@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uXakGaULP9Ei3x4cyRZde2IoQ2LYeHhPtSA8j2x2VM/ywbDIDzu0udep8sJVPz7FkAv3A5bFeXvloBmzV527Ng==",
+  "dgSpecHash": "ePLkjkpUoe/zFB4+FjbAHS5Yp1taFIJ7KrgEePOV97Uzd4vXrxZJ9SwJJ/yBZdiuXCHc4vVhvWDNz5ELfY/qmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bayteq\\Documents\\My Web Sites\\SnakesAndLadders\\SnakesAndLadders\\SnakesAndLaddersTest\\SnakesAndLaddersTest.csproj",
+  "projectFilePath": "C:\\Users\\bayteq\\Documents\\GitHub\\SnakesAndLadders\\SnakesAndLadders\\SnakesAndLaddersTest\\SnakesAndLaddersTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bayteq\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\bayteq\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

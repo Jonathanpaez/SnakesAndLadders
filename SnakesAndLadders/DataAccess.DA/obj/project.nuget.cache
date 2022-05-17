@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L+KuZ9YbKxo8kd3BSE8AUqPBcOIPqoyv6Sk/uzs+QyLFpT5v+9Ix/Q7pPq1JnJADNzUv9DZfujER9HSSdccwBQ==",
+  "dgSpecHash": "qfmWHG6tUvfKQyX+SY5GGDdEg7kdVS+BT9/Qew7wHR98fZ9ExasXVD9pvxMsxWnnLM5dSEET4KbBEr/XMHSJgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bayteq\\Documents\\My Web Sites\\SnakesAndLadders\\SnakesAndLadders\\DataAccess.DA\\DataAccess.DA.csproj",
+  "projectFilePath": "C:\\Users\\bayteq\\Documents\\GitHub\\SnakesAndLadders\\SnakesAndLadders\\DataAccess.DA\\DataAccess.DA.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

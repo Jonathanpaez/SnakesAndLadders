@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bayteq\\Documents\\My Web Sites\\SnakesAndLadders\\SnakesAndLadders\\EntitiesBE\\Entities.BE.csproj",
+      "projectUniqueName": "C:\\Users\\bayteq\\Documents\\GitHub\\SnakesAndLadders\\SnakesAndLadders\\EntitiesBE\\Entities.BE.csproj",
       "projectName": "Entities.BE",
-      "projectPath": "C:\\Users\\bayteq\\Documents\\My Web Sites\\SnakesAndLadders\\SnakesAndLadders\\EntitiesBE\\Entities.BE.csproj",
+      "projectPath": "C:\\Users\\bayteq\\Documents\\GitHub\\SnakesAndLadders\\SnakesAndLadders\\EntitiesBE\\Entities.BE.csproj",
       "packagesPath": "C:\\Users\\bayteq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bayteq\\Documents\\My Web Sites\\SnakesAndLadders\\SnakesAndLadders\\EntitiesBE\\obj\\",
+      "outputPath": "C:\\Users\\bayteq\\Documents\\GitHub\\SnakesAndLadders\\SnakesAndLadders\\EntitiesBE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bayteq\\Documents\\My Web Sites\\SnakesAndLadders\\SnakesAndLadders\\DataAccess.DA\\DataAccess.DA.csproj": {
-              "projectPath": "C:\\Users\\bayteq\\Documents\\My Web Sites\\SnakesAndLadders\\SnakesAndLadders\\DataAccess.DA\\DataAccess.DA.csproj"
+            "C:\\Users\\bayteq\\Documents\\GitHub\\SnakesAndLadders\\SnakesAndLadders\\DataAccess.DA\\DataAccess.DA.csproj": {
+              "projectPath": "C:\\Users\\bayteq\\Documents\\GitHub\\SnakesAndLadders\\SnakesAndLadders\\DataAccess.DA\\DataAccess.DA.csproj"
             }
           }
         }

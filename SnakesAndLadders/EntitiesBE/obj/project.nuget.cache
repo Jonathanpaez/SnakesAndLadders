@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cSwD6JHEM6IQUQS89M0tmEwLXngbpAYIW3ihLfpCdH+YT2vlFUKeB8RO8vi8nE870w1LVP/hpZ82xR/8QCwX7Q==",
+  "dgSpecHash": "T7meTE65jkK/HwqwvUT8oabLe7RbsQ6ZMYb0crnGjhrn8aH0rnbvkLB9jaCqWYoJTnYLKolFarDskgx8rNtMtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bayteq\\Documents\\My Web Sites\\SnakesAndLadders\\SnakesAndLadders\\EntitiesBE\\Entities.BE.csproj",
+  "projectFilePath": "C:\\Users\\bayteq\\Documents\\GitHub\\SnakesAndLadders\\SnakesAndLadders\\EntitiesBE\\Entities.BE.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

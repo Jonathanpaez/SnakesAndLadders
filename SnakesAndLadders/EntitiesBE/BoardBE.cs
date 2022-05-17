@@ -20,11 +20,4 @@ namespace EntitiesBE
         public int InitialPosition { get; set; }
         public int EndPosition { get; set; }
     }
-
-    public class PlayerMoveConfig
-    {
-        public string Action { get; set; }
-        public BoardBE Board { get; set; }
-        public PlayerBE Player { get; set; }
-    }
 }
