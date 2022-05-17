@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Entities.BE/1.0.0": {
+        "dependencies": {
+          "DataAccess.DA": "1.0.0"
+        },
+        "runtime": {
+          "Entities.BE.dll": {}
+        }
+      },
+      "DataAccess.DA/1.0.0": {
+        "runtime": {
+          "DataAccess.DA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entities.BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccess.DA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
